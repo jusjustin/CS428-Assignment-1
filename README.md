@@ -1,4 +1,4 @@
-# CS428-Assignment-1
+# CS428-Project-1
 
 To view project go under sample scene
 
